@@ -1,0 +1,11 @@
+
+Mernis sistemini eclipse te yazdığımızı proje eklerken :
+Proje sağ tıkla - > new -> other -> web service client - Service Definition
+ kısmına : " https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx?wsdl " ekleyip 
+finis diyoruz .
+
+Ama projeyi oluşturuken javaSE-15 kullandığımız için hata vericektir. Bunu düzeltmek
+için projemize sağ tıklayıp Properties -> Java Compiler -> Use compaliance from ' daki
+işareti kaldırıp 1.8 seçiyoruz . Projemiz sorunsuz bir şekilde çalışmaya devam
+edicektir.
+
