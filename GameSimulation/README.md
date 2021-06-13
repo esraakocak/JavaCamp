@@ -1,5 +1,5 @@
 
-
++ Oyuncuları kontrol etmek, eklemek, güncellemek ve silmek için bir sistem örneği.
 
 ###  Oyuncuların sisteme kayıt olabileceği, bilgilerini güncelleyebileceği, kayıtlarını silebileceği bir ortamı simule edilmiştir.
 ### Müşteri bilgilerinin doğruluğunu e-devlet sistemlerini kullanarak doğrulama yapıyor.(Mernis Sistemi entegre edilmiştir.)
